@@ -1,0 +1,15 @@
+/Users/sopwithcamel/Projects/Switches/Switches/bin/Debug/net6.0/Switches
+/Users/sopwithcamel/Projects/Switches/Switches/bin/Debug/net6.0/Switches.deps.json
+/Users/sopwithcamel/Projects/Switches/Switches/bin/Debug/net6.0/Switches.runtimeconfig.json
+/Users/sopwithcamel/Projects/Switches/Switches/bin/Debug/net6.0/Switches.dll
+/Users/sopwithcamel/Projects/Switches/Switches/bin/Debug/net6.0/Switches.pdb
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.csproj.AssemblyReference.cache
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.AssemblyInfoInputs.cache
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.AssemblyInfo.cs
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.csproj.CoreCompileInputs.cache
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.dll
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/refint/Switches.dll
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.pdb
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/Switches.genruntimeconfig.cache
+/Users/sopwithcamel/Projects/Switches/Switches/obj/Debug/net6.0/ref/Switches.dll
